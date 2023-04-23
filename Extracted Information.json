@@ -1,0 +1,50 @@
+{
+  "info": {
+    "column0": [
+      "DEREK SOTO",
+      "Data Analyst",
+      "& Desoto@email.com\nof 1123) 456-7890\n Brooklyn, NY\n\nES Linkedin"
+    ],
+    "column1": [
+      "CAREER OBJECTIVE",
+      "Organized, communicative, and quick-to-leam recent computer\nscience graduate with 1 year of valuable internship experience.\nSeeking an opportunity as a data analyst to contribute to\nVizance's data conversions and process improvements."
+    ]
+  },
+  "education": [
+    "EDUCATION",
+    "BS.\n\nComputer Science\nUniversity of Pittsburgh\n\n3 September 2016 - April 2020\n@ Pittsburgh, PA\n\n= CPAR7",
+    "Relevant courses:\nIntermediate programming\nProbability & Statistics\nLinear Algebra\n\nGame Theory"
+  ],
+  "skill": [
+    "SKILLS",
+    "* Programming: SQL, Python\n(Pandas, scikit-learn)\n\n* A/B Testing and\nExperimentation\n\n* Modeling: Linear and\nLogistic Regressions\n\n* Data Visualization: Excel,\nGoogle Sheets, Matpiotlib,\nTableau"
+  ],
+  "experience": [
+    "WORK EXPERIENCE",
+    "Market Research Analyst Intern",
+    "Prudential\n# April 2019 - March 2020    9 Pktsburgh, PA\n«Received, cleaned, and prepped date using Python, SQL. and\nExcel to help build marketing mix models that resutted In a\nlit in ROI of 8 basis points\nBuilt data visualizations using Tableau for KPts that reduced\nmanual reporting by 10 hours weekly\n* Using Excel and SQL, buik caiculator for a client to help\nthem prioritize thelr project roadmap by changing Inputs\nlike customer LTV, conversion rate, and organic traffic\nCollaborated with product managers, gaining insight into\nmarketing aspects and writing documents\nKdentified strategic marketing opportunity through detailed\nanalysis with intern team, making recommendations that\nsaved the client over $NK in yearly campaign costs\nContributed to weekly and monthly reports on product\ndevelopment and design\n+ Worked with 4 interns to conduct an attitude study, which\nled current clients to purchase products 13% more often",
+    "PROJECTS.",
+    "Fantasy Football Modeling\n* Aggregated and prepped 6 years of NFL fantasy football\nprojection data from 8 independent sources into MySQL\ndatabase, which improved winning streak by 78%.\n¢ Built a random forest modal In scikit-learn that combined\ndisparate sources into one projection that outperformed the\nmean absolute error of the next best projection by 14%",
+    "Movie Recommendation Engine\n\n* Prepped IMDB and Rotten Tomatoes data and used k-\nnearest-neighbors In scikit-team to build an improved movie\ntecommendation system\n\n+ Saved an average of 17 minutes on movie selection relative\nto previous methodology\n\n* Guilt visualizations in Tableau to show how ratings changed\nand how the model performed over time"
+  ],
+  "index": [
+    [
+      "education",
+      [
+        4
+      ]
+    ],
+    [
+      "skill",
+      [
+        7
+      ]
+    ],
+    [
+      "experience",
+      [
+        12
+      ]
+    ]
+  ]
+}
