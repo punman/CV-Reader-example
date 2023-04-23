@@ -5,4 +5,4 @@ This project is designed to help you extract relevant information from an image 
 Our tool utilizes advanced algorithms for text recognition and layout detection, ensuring that the extracted information is accurate and reliable. Whether you're a recruiter looking to quickly scan through resumes, or an applicant hoping to improve your chances of getting hired, our CV/Resume extractor is here to help.
 
 ## For result please see the Extracted Information.json which is extracted from entry-level-data-analyst-resume-example.png
-** note that the ORC model this example is the based model which will not gives the best result
+** note that the ORC model in this example is the based model which will not gives the best result
